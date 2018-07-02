@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rehejo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="rehejo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rehejo:war exploded" />
+    </root>
+  </artifact>
+</component>
